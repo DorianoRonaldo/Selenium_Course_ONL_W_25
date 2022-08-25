@@ -4,17 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="376a0f31-4f3d-4df7-bc7d-504849550c0f" name="Changes" comment="" />
+    <list default="true" id="376a0f31-4f3d-4df7-bc7d-504849550c0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/BrowserOptions/BrowserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Locators/FindElementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumFunctions/IsDisplayedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumFunctions/IsEnabledTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumFunctions/SeleniumGetText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/coderslab/test/DuckDuckGo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/coderslab/test/JunitExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/coderslab/test/QwantSearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2DL0uIxMTkrP2mgOCs3oBBfbQpK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,9 +47,97 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/doria/CodersLab"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.IsDisplayedTest">
+    <configuration name="FindElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Locators" />
+      <option name="MAIN_CLASS_NAME" value="Locators.FindElementTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindElementTest.elementSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Locators" />
+      <option name="MAIN_CLASS_NAME" value="Locators.FindElementTest" />
+      <option name="METHOD_NAME" value="elementSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsDisplayedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumFunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumFunctions" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumFunctions.IsDisplayedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsEnabledTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumFunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumFunctions" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumFunctions.IsEnabledTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumGetText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumFunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumFunctions" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumFunctions.SeleniumGetText" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IsDisplayedTest" />
+        <item itemvalue="JUnit.IsEnabledTest" />
+        <item itemvalue="JUnit.SeleniumGetText" />
+        <item itemvalue="JUnit.FindElementTest" />
+        <item itemvalue="JUnit.FindElementTest.elementSearch" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,5 +148,27 @@
       <updated>1660463280506</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pl/coderslab/test/QwantSearchTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
